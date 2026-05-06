@@ -1,4 +1,4 @@
-## Olá, meu nome é Natamie saint clair!
+## Olá, meu nome é Natamie saint clair!🍁
 
   - Atualmente sou estudando curso Técnico de Desenvolvimento de Sistema no SENAI
 
@@ -19,4 +19,4 @@
 
 
   ## Meu sonho é:
-  -Morar no canadá
+  -Morar no canadá 🍁
