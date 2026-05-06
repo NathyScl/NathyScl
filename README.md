@@ -1,10 +1,10 @@
-## Olá, meu nome é Natamie saint clair!🍁
+## 🍁 Olá, meu nome é Natamie saint clair!🍁
 
   - Atualmente sou estudando curso Técnico de Desenvolvimento de Sistema no SENAI
 
   ---
 
-  ## Disciplina Cursadas:
+  ## 🍁 Disciplina Cursadas:
   -Lógica de Programação e Algoritmos;
   -Arquitetura de Redes com IoT;
   -Sistemas Operacíonais;
@@ -12,11 +12,11 @@
 
 
 
-  ## Linguagens Estudadas:
+  ## 🍁 Linguagens Estudadas:
   -Python;
   -C++.
 
 
 
-  ## Meu sonho é:
-  -Morar no canadá 🍁
+  ## 🍁 Meu sonho é:
+  -Morar no canadá 
