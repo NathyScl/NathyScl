@@ -1,4 +1,4 @@
-## 🍁 Olá, meu nome é Natamie saint clair!🍁
+## 🍁 Olá, meu nome é Natamie Saint Clair!🍁
 
   - Atualmente sou estudando curso Técnico de Desenvolvimento de Sistema no SENAI
 
